@@ -1,9 +1,14 @@
-<h1 align="center">Hey there 👋 I'm Atharv Deshmukh</h1>
-<h3 align="center">🎓 CSE Student @ PVGCOET&M, Pune | 🔐 Cybersecurity Enthusiast | ⚡ Competitive Programmer</h3>
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Atharv+👋;CSE+Student+%40+PVGCOET%26M+Pune;Cybersecurity+Enthusiast+🔐;Competitive+Programmer+⚡;Builder+of+DarkScan+🛡️)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img src="https://komarev.com/ghpvc/?username=atharvd718&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 🚀 About Me
 
@@ -19,22 +24,29 @@
 
 ⚡ &nbsp;Fun fact **I built a breach detection tool before finishing my 1st year of CS!**
 
-<br/>
-<br/>
+<br clear="right"/>
 
 ---
 
 ### 🌐 Connect with me
 
+<div align="left">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvdeshmukhcs)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvd718@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharvd718)
 
+</div>
+
 ### 🏆 Competitive Programming
+
+<div align="left">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Code_Atharv07)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/atharv0718)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/atharvcodeforce)
+
+</div>
 
 ---
 
@@ -88,8 +100,20 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvd718&label=Profile%20Views&color=0A66C2&style=flat" alt="atharvd718" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atharvd718&theme=flat&no-frame=true&row=1&column=7&title_color=0A66C2&text_color=333333" />
 </p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvd718&theme=minimal&bg_color=ffffff&color=0A66C2&line=0A66C2&point=FF6C37&hide_border=true" />
+</p>
+
+---
 
 <p align="center">⭐ <i>Star my repos if you find them useful!</i> ⭐</p>
